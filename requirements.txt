@@ -1,0 +1,9 @@
+streamlit
+numpy
+opencv-python
+torch
+keras
+tensorflow
+mediapipe
+ultralytics
+streamlit-option-menu

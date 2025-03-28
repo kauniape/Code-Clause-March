@@ -9,6 +9,6 @@ tqdm
 streamlit-webrtc
 requests
 matplotlib
-tensorflow==2.5.0
+tensorflow
 mediapipe
 ultralytics 

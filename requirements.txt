@@ -7,6 +7,8 @@ Pillow
 requests
 tqdm
 streamlit-webrtc
-tensorflow-io-gcs-filesystem
 requests
 matplotlib
+tensorflow==2.5.0
+mediapipe
+ultralytics 
